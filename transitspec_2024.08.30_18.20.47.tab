@@ -20,7 +20,7 @@
 # COLUMN facility:       Facility
 # COLUMN instrument:     Instrument
 #
-plntname	centralwavelng	bandwidth	plntransdep	plntransdeperr1	plntransdeperr2	plntransdeplim	plnradj	plnradjerr1	plnradjerr2	plnradjlim	plnratror	plnratrorerr1	plnratrorerr2	plnratrorlim	plntranmid	plntranmiderr1	plntranmiderr2	plntranmidlim	facility	instrument
+# plntname	centralwavelng	bandwidth	plntransdep	plntransdeperr1	plntransdeperr2	plntransdeplim	plnradj	plnradjerr1	plnradjerr2	plnradjlim	plnratror	plnratrorerr1	plnratrorerr2	plnratrorlim	plntranmid	plntranmiderr1	plntranmiderr2	plntranmidlim	facility	instrument
 WASP-12 b	0.3350	0.0900									0.12135	0.00087	-0.00087	0	2454508.977005	0.000310	-0.000310	0	Hubble Space Telescope satellite	Space Telescope Imaging Spectrograph
 WASP-12 b	0.4050	0.0500									0.12000	0.00025	-0.00025	0	2454508.977005	0.000310	-0.000310	0	Hubble Space Telescope satellite	Space Telescope Imaging Spectrograph
 WASP-12 b	0.5020	0.0440									0.12022	0.00031	-0.00031	0	2454508.977005	0.000310	-0.000310	0	Hubble Space Telescope satellite	Space Telescope Imaging Spectrograph
